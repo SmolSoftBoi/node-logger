@@ -2,6 +2,7 @@
   "name": "@epickris/node-logger",
   "version": "0.0.1",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/EpicKris/node-logger.git"
