@@ -12,7 +12,7 @@
   },
   "author": "Kristian Matthews <kristian.matthews@me.com>",
   "engines": {
-    "node": ">=10.17.0"
+    "node": ">=12.22.0"
   },
   "files": [
     "README.md",
