@@ -3,7 +3,7 @@
 ## Installation
 Install using yarn:
 ```bash
-yarn add smolsoftboi-logger
+yarn add @epickris/node-logger
 ```
 
 ## Usage
